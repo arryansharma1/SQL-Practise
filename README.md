@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📌 What You'll Find
@@ -41,8 +39,6 @@
 
 <br clear="right"/>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Purpose
@@ -54,8 +50,6 @@
 | Sharpen SQL thinking across diverse query types | Master patterns asked in top tech interviews | Simulate real database scenarios and business queries |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -72,8 +66,6 @@
 <br/>
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -109,8 +101,6 @@
     └── complex_joins.sql
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Progress Tracker
@@ -127,8 +117,6 @@
 | ⚡ Advanced SQL (CTEs, Window Functions) | 🔄 Ongoing |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -154,8 +142,6 @@ SELECT name FROM employees
 WHERE salary > (SELECT AVG(salary) FROM employees);
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ Getting Started
@@ -180,8 +166,6 @@ cd SQL-Practice
 
 > 💡 All queries are written in **standard SQL** and are compatible with MySQL, PostgreSQL, and SQLite.
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect With Me
@@ -193,8 +177,6 @@ cd SQL-Practice
 [![Email](https://img.shields.io/badge/Email-aryansharma7341.as@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansharma7341.as@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
